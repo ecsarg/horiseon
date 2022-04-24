@@ -1,3 +1,16 @@
-# horiseon
+# Horiseon
 
-## First weekly challenge to update semantics and styling
+## Purpose
+A website that offers online social solutions.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+
+
+## Contribution
+Made with ❤️ by Ellie Sargent
+
+
