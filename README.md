@@ -8,7 +8,7 @@ A website that offers online social solutions.
 * CSS
 
 ## Website
-https://github.com/ecsarg/horiseon.git
+https://ecsarg.github.io/horiseon/
 
 ## Contribution
 Made with ❤️ by Ellie Sargent
